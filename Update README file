@@ -1,0 +1,23 @@
+# PIR Motion-Based Security System Using Arduino
+
+## Description
+This project uses a PIR motion sensor with Arduino to detect human motion
+and activate LEDs as a security alert.
+
+## Components Used
+- Arduino UNO
+- PIR Motion Sensor
+- LEDs
+- Resistors
+- Breadboard
+- Connecting wires
+
+## Working
+- PIR sensor is connected to digital pin 5.
+- Arduino reads the PIR output.
+- When motion is detected, alert LEDs turn ON.
+- When no motion is detected, LEDs turn OFF.
+
+## Applications
+- Home security
+- Intruder alert systems
